@@ -1,0 +1,32 @@
+body {
+    background: url("../images/eddEddEddy.jpg");
+    background-size: cover;
+
+}
+
+.container {
+    width: 900px;
+    
+}
+
+.jumbotron {
+    height: 500px;
+    background: white;
+    opacity: 0.5;
+
+}
+
+#Logo {
+    height: 10em;
+    
+
+
+}
+
+.rounded {
+    height: 10em;
+}
+
+.btn {
+
+}
